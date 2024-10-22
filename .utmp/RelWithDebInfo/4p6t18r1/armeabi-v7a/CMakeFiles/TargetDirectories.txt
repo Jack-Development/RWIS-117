@@ -1,5 +1,0 @@
-/home/jack/RWIS-117/.utmp/RelWithDebInfo/4p6t18r1/armeabi-v7a/CMakeFiles/edit_cache.dir
-/home/jack/RWIS-117/.utmp/RelWithDebInfo/4p6t18r1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/home/jack/RWIS-117/.utmp/RelWithDebInfo/4p6t18r1/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
-/home/jack/RWIS-117/.utmp/RelWithDebInfo/4p6t18r1/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
-/home/jack/RWIS-117/.utmp/RelWithDebInfo/4p6t18r1/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
