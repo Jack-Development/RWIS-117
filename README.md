@@ -17,7 +17,7 @@ This project utilizes the following tools:
   <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android"></code>
 </div>
 
-We are using **Unity LTS 2022.3.50f1** with a **2D Mobile project template**, the **new input system**, and have switched to **IL2CPP**, supporting both **ARM64** and **ARM32** architectures.
+We are using **Unity LTS 6000.0.23f1** with a **2D Mobile project template**, the **new input system**, and have switched to **IL2CPP**, supporting both **ARM64** and **ARM32** architectures.
 
 ## License
 
