@@ -6,7 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Top-Down Map/OrthographicCamera.unity
+    guid: 5a6d1efcafec547488aaae446ba519d5
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 95dff2930e72520fc99a94d6c830ac72, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 88f8b2b8947d7e7d3bf0843b960b05c3, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 0ac597c1bf273ba7aa065c21e13e7dc8, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3bd41ab4780af9b4dad7f691e992bb61, type: 2}
+  m_UseUCBPForAssetBundles: 0
